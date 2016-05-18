@@ -104,7 +104,7 @@ footer {
     
 }
 
-.social-icon{ width: 50px; height: 50px; margin: 0 5px; }
+.social-icon{ width: 40px; height: 40px; margin: 0 5px; }
 
 /*****************
 PAGE: PORTFOLIO
@@ -137,8 +137,8 @@ PAGE: ABOUT
 
 .profile-photo {
     display: block;
-    max-width: 150px;
-    margin: 0 auto 30px;
+    max-width: 250px;
+    margin: 0 auto 0px;
     border-radius: 100%;
     
 }
@@ -170,7 +170,7 @@ Page: CONTACT
     background-image: url('../image/mail.png');
 }
 .contact-info li.twitter a {
-    background-image: url('../image/twitter.png');
+    background-image: url('../image/twitter%20copy.png');
 }
 
 /*****************
@@ -201,7 +201,7 @@ color: white;
 
 /* links */
 a {
-    color: #6ab47b
+    color: #314C4E
 }
 
 /* nav link */
@@ -215,7 +215,18 @@ nav a.selected, nav a:hover {
 }
 
 
+/*****************
+VISUAL MARK
+******************/
 
+.visual-mark {
+    display: block;
+    max-width: 250px;
+    margin: -60px auto -20px;
+    
+}
+
+    
 
 
 
