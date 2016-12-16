@@ -254,6 +254,28 @@ hr {
   color: #fff;
 }
 
+.sec-main2 {
+  position: relative;
+  height: 560px;
+  background: url(head2.1.png) no-repeat center center;
+  background-size: cover;
+}
+
+.sec-main3 {
+  position: relative;
+  height: 560px;
+  background: url(head2.2.png) no-repeat center center;
+  background-size: cover;
+}
+
+.sec-main4 {
+  position: relative;
+  height: 560px;
+  background: url(head2.3.png) no-repeat center center;
+  background-size: cover;
+}
+
+
 /*About*/
 .sec-about a {
   color: #000;
@@ -301,3 +323,21 @@ hr {
   background: #ad0000;
   border-color: #7a0000;
 }
+
+
+/*portfolioimg*/
+
+#img_container {
+    height:300px;
+    width:300px;
+    margin:0 auto;   
+    text-align:center;
+}
+
+
+.portfolioimg {
+    max-height: 100%;
+    max-width: 100%;
+    
+}
+
